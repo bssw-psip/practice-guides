@@ -37,7 +37,7 @@ The first step to PSIP, and a lot of planning for that matter, is to have a good
 
 Your narrative might now look like this:
 
-**"this is a placeholder for some text describing an HPC software project."
+**this is a placeholder for some text describing an HPC software project.**
 
 
 
