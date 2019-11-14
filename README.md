@@ -6,4 +6,4 @@ Productivity and Sustainability Improvement Planning (PSIP) guides for upgrading
 
 Brought to you by the [IDEAS-ECP](https://ideas-productivity.org) PSIP team with support from [BSSw](https://bssw.io).
 
-[Start here](why_practice_psip.md) to find out if PSIP is right for you.
+[Start here](why_practice_PSIP.md) to find out if PSIP is right for you.
