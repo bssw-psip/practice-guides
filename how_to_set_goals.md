@@ -16,6 +16,6 @@ As you set your goals, consider these questions, engaging external expertise as 
 * Can I complete the goal (or a subgoal) in one normal development iteration (a few weeks or months)?
 * Will accomplishing the goal provide tangible payoff within a few months after completion?
 
-After asking these, and similar questions, you will have a list of ideas for how to improve your practices. Next, you will create a Progress Tracking Card (PTC) that will help you establish baseline values and tangibly track progress as your practices improve.
+After asking these, and similar questions, you will have a list of ideas for how to improve your practices. Next, you will create a [Progress Tracking Card (PTC)](how_to_create_ptc.md) that will help you establish baseline values and tangibly track progress as your practices improve.
 
 
