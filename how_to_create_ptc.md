@@ -34,13 +34,14 @@ Name: Unit Testing. Target: Create unit testing policy covering refactored code.
 - [ ] 4 	All developer trained to write unit tests.
 - [ ] 5 	New policy established: All refactored code is covered by unit tests.
 
-# Step 4: Record Current PTC Values.
+## Step 4: Record Current PTC Values.
 
 Now that you have your PTC, you can Use your PTC in meetings with your team to remind everyone of your goals, and to determine whether you have met them. As seen below, you can record baseline capabilities and track progress (0-5 are suggested) for each PTC.
 
 - [x] 0 	No unit testing.
 - [ ] 1 	Unit testing implemented for one example refactored class.
-- and so on.
+
+...and so on.
 
 ### Include any comments that will clarify definitions and terms used in your PTC. 
 Include links to materials that may provide additional context. For example, you may eventually decide to define the terms of the policy that has been established, or provide a link to the policy itself.
