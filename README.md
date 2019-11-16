@@ -4,7 +4,7 @@
 # PSIP-Practice-Guides
 Productivity and Sustainability Improvement Planning (PSIP) guides for upgrading team practices.
 
-why_practice_PSIP.md
+[Why practice PSIP](why_practice_PSIP.md)
 how_to_start.md 
 how_to_set_goals.md 
 how_to_create_ptc.md 
