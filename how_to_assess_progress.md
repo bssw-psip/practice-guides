@@ -13,7 +13,7 @@ The PSIP process is iterative. Continual process improvement is a valuable attri
 
 The PSIP process is cyclical. Iterate as often as you need to. Introduce new PTCs. Modify existing ones. Elevate your processes, [upgrade your team practices](https://github.com/bssw-psip). Are you ready to get started? Check out our PCT examples for ideas on how to set up your planning, and visit the PTC catalog for cards contributed by other teams that you can import into your project. 
 
-Give back, [share your PTCs] (https://github.com/bssw-psip/ptc-catalog).
+Give back, [share your PTCs](https://github.com/bssw-psip/ptc-catalog).
 
 
 
