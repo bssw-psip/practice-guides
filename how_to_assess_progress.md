@@ -11,6 +11,9 @@ During execution, teams assess, and determine the rate of progress each week. Yo
 
 The PSIP process is iterative. Continual process improvement is a valuable attribute for any software project. The PSIP process may be used to guide improvement planning within software projects and across aggregate projects. Use PSIP to your advantage: reframe your goals, refocus your team, and share your PSIP with other teams to secure their buy-in.
 
-The PSIP process is cyclical. Iterate as often as you need to. Introduce new PTCs. Modify existing ones. Elevate your processes, [upgrade your team practices](https://github.com/bssw-psip).
+The PSIP process is cyclical. Iterate as often as you need to. Introduce new PTCs. Modify existing ones. Elevate your processes, [upgrade your team practices](https://github.com/bssw-psip). Are you ready to get started? Check out our PCT examples for ideas on how to set up your planning, and visit the PTC catalog for cards contributed by other teams that you can import into your project. 
+
+Give back, share your PTCs.
+
 
 
