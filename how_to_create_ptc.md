@@ -46,7 +46,7 @@ Now that you have your PTC, you can Use your PTC in meetings with your team to r
 ### Include any comments that will clarify definitions and terms used in your PTC. 
 Include links to materials that may provide additional context. For example, you may eventually decide to define the terms of the policy that has been established, or provide a link to the policy itself.
 
-Next, you will create and execute your practice improvement plan.
+Next, you will create and execute your [practice improvement plan](improvement_plan.md).
 
 
 
