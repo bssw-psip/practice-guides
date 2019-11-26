@@ -24,7 +24,7 @@ Generating a user story will help you keep you focused on your goal, and provide
 
 ### Create a numbered list that reflects the scores (often from zero to five) you will give yourself as you achieve specific stages toward your goal. 
 
-Each item in the list is a qualitative description that illustrates what it means to reach that score. Zero should represent a starting state, and the highest number should represent fully achieving the goal. See the example below for a PTC which can also be found at [Step 3: Construct PTC](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+Two guidelines for creating PTCs are: 1) create steps that involve agreement from your team, and 2) try to have an artifact, or measurable outcome for each step like a policy, document, etc. In addition each item in the list is a qualitative description that illustrates what it means to reach that score. Zero should represent a starting state, and the highest number should represent fully achieving the overall goal, keeping in mind that each step may also incorporate outcomes or artifacts along the way to completion. See the example below for a PTC which can also be found at [Step 3: Construct PTC](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
 
 Name: Unit Testing. Target: Create unit testing policy covering refactored code. Score (0 – 5) descriptions below.	
 - [ ] 0 	No unit testing.
