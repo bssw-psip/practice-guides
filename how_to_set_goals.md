@@ -1,8 +1,8 @@
 # Practicing PSIP for the first time on your own: how to set goals
 
-If you haven't already, take a look at our introduction to PSIP or [why practice PSIP ](why_practice_PSIP.md) and [Step 1](how_to.md) to getting started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+If you haven't already, take a look at our introduction to PSIP or [why practice PSIP ](why_practice_PSIP.md) and [Step 1](how_to_start.md) to getting started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
 
-Assuming you've completed [Step 1](how_to.md), you may have noticed that the process of describing current practices has several benefits. For some, the exercise leads to the first concrete description of these practices. A document developed with others usually leads to discussions among team members, improving understanding and creating insights about which practices can be improved and how. 
+Assuming you've completed [Step 1](how_to_start.md), you may have noticed that the process of describing current practices has several benefits. For some, the exercise leads to the first concrete description of these practices. A document developed with others usually leads to discussions among team members, improving understanding and creating insights about which practices can be improved and how. 
 
 ## Step 2: Set goals.
 
