@@ -1,8 +1,8 @@
 # Practicing PSIP for the first time on your own: how to create progress tracking cards (PTC)
 
-If you haven't already, take a look at [why practice PSIP ](why_practice_PSIP.md), [Step 1](how_to.md), and [Step 2](how_to_set_goals.md) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+If you haven't already, take a look at [why practice PSIP ](why_practice_PSIP.md), [Step 1](how_to_start.md), and [Step 2](how_to_set_goals.md) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
 
-Assuming you've completed [Step 1](how_to.md) and [Step 2](how_to_set_goals.md) of PSIP, you are ready to create your first progress tracking card.
+Assuming you've completed [Step 1](how_to_start.md) and [Step 2](how_to_set_goals.md) of PSIP, you are ready to create your first progress tracking card.
 
 ## Step 3: Construct a Progress Tracking Card (PTC).
 
