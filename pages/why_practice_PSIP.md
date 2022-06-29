@@ -11,4 +11,4 @@ PSIP utilizes progress tracking cards (PTC). Progress tracking cards are concise
 Of course PSIP can be initiated at anytime, and we find PSIP is especially helpful when you or your team are 1) onboarding new team members unfamiliar with your current process, 2) your code has a new set of users/collaborators who need to understand your process for version control, and 3) the growth and success of your code base requires your team to interface with other teams more frequently. If any of these conditions describe your situation, we recommend you practice PSIP! Even if none of these conditions describe your situation, we still recommend you practice PSIP to upgrade team practices anytime!
 
 
-Click [here](how_to_start.md) if you are ready to start PSIP on your own.
+Click [here](/practice-guides/pages/how_to_start.html) if you are ready to start PSIP on your own.

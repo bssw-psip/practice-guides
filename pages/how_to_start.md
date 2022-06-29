@@ -1,6 +1,6 @@
 # Practicing PSIP for the first time on your own: how to guide
 
-If you haven't already, take a look at our introduction to PSIP or [why practice PSIP ](why_practice_PSIP.md) if you are wondering whether PSIP is right for you or your team. If you are ready, let's get started!
+If you haven't already, take a look at our introduction to PSIP or [why practice PSIP](/practice-guides/pages/why_practice_PSIP.html) if you are wondering whether PSIP is right for you or your team. If you are ready, let's get started!
 
 As you already know PSIP framework is an iterative, incremental, repeatable, cyclic process for improvement planning. The cyclic nature of PSIP enables you and your team to improve overall project quality and achieve science goals by encouraging frequent iteration and reflection. The PSIP workflow is described below. You and your team can work through these steps on your own, or with the assistance of a PSIP facilitator. The process described below assumes that you and/or your team will be practicing PSIP on your own by following the guides.
 
@@ -35,10 +35,5 @@ The first step to PSIP, and a lot of planning for that matter, is to have a good
 * Describe how the third-party software is tested for correct behavior, initially and when upgrading to a new version (verification and validation)
 * Describe how loss of functionality via faults and missing features is handled by the third-party software. Describe how complete loss of the third-party capability would be addressed by the application (risk mitigation)
 
-Your narrative might now look like this:
 
-**this is a placeholder for some text describing an HPC software project.**
-
-
-
-Step 2 involves setting your goals.
+[Step 2](/practice-guides/pages/how_to_set_goals.html) involves setting your goals.
