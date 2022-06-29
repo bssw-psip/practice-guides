@@ -1,8 +1,8 @@
 # Practicing PSIP for the first time on your own: how to create progress tracking cards (PTC)
 
-If you haven't already, take a look at [why practice PSIP](pages/why_practice_PSIP.md), [Step 1](pages/how_to_start.md), and [Step 2](pages/how_to_set_goals.md) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+If you haven't already, take a look at [why practice PSIP](/practice-guides/pages/why_practice_PSIP.html), [Step 1](/practice-guides/pages/how_to_start.html), and [Step 2](/practice-guides/pages/how_to_set_goals.html) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
 
-Assuming you've completed [Step 1](pages/how_to_start.md) and [Step 2](pages/how_to_set_goals.md) of PSIP, you are ready to create your first progress tracking card.
+Assuming you've completed [Step 1](/practice-guides/pages/how_to_start.html) and [Step 2](/practice-guides/pages/how_to_set_goals.html) of PSIP, you are ready to create your first progress tracking card.
 
 ## Step 3: Construct a Progress Tracking Card (PTC).
 
@@ -46,4 +46,4 @@ Now that you have your PTC, you can Use your PTC in meetings with your team to r
 ### Include any comments that will clarify definitions and terms used in your PTC. 
 Include links to materials that may provide additional context. For example, you may eventually decide to define the terms of the policy that has been established, or provide a link to the policy itself.
 
-Next, you will create and execute your [practice improvement plan](pages/how_to_execute_plan.md).
+Next, you will create and execute your [practice improvement plan](/practice-guides/pages/how_to_execute_plan.html).

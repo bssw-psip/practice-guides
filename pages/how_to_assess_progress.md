@@ -1,8 +1,8 @@
 # Practicing PSIP for the first time on your own: how to assess progress
 
-If you haven't already, take a look at [why practice PSIP](pages/why_practice_PSIP.md), [Step 1](pages/how_to_start.md), [Step 2](pages/how_to_set_goals.md), [Steps 3 - 4](pages/how_to_create_ptc.md), and [Steps 5 - 6](pages/how_to_execute_plan.md) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+If you haven't already, take a look at [why practice PSIP](/practice-guides/pages/why_practice_PSIP.html), [Step 1](/practice-guides/pages/how_to_start.html), [Step 2](/practice-guides/pages/how_to_set_goals.html), [Steps 3 - 4](/practice-guides/pages/how_to_create_ptc.html), and [Steps 5 - 6](/practice-guides/pages/how_to_execute_plan.html) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
 
-Assuming you've completed [Step 1](pages/how_to_start.md), [Step 2](pages/how_to_set_goals.md), [Steps 3 - 4](pages/how_to_create_ptc.md), and [Steps 5 - 6](pages/how_to_execute_plan.md) of PSIP, you are ready to assess your progress, and repeat the process as needed.
+Assuming you've completed [Step 1](/practice-guides/pages/how_to_start.html), [Step 2](/practice-guides/pages/how_to_set_goals.html), [Steps 3 - 4](/practice-guides/pages/how_to_create_ptc.html), and [Steps 5 - 6](/practice-guides/pages/how_to_execute_plan.html) of PSIP, you are ready to assess your progress, and repeat the process as needed.
 
 ## Step 7: Assess Progress. 
 During execution, teams assess, and determine the rate of progress each week. You can use PTCs to energize your team on the vision. Adjust their strategy for success if needed. Refer frequently to your PTC, and use it as a way to gain consensus or refocus your efforts on your objectives. When progress is delayed too long, start a new PSIP iteration. 
