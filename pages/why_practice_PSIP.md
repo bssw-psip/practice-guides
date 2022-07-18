@@ -20,6 +20,8 @@ PSIP PTCs are not meant to be external assessments or evaluation tools.
 You can also use or share PTCs when communicating to other teams about your
 goals and how you know when you will have met your objectives.
 
+![Example Progress Tracking Cards](/practice-guides/assets/images/PSIP_PTCCards.png)
+
 # When should I practice PSIP?
 
 PSIP can be initiated at anytime, and we find PSIP is especially helpful when:
