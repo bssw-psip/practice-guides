@@ -44,5 +44,5 @@ establish baseline values and tangibly track progress as your practices improve.
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 3: Construct PTC</a>
+<a href="/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 3 & 4: Construct and Record PTC</a>
 
