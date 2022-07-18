@@ -7,6 +7,8 @@ PSIP, teams are able to realize process improvements without a disruption
 to any current development processes. PSIP is a technique that can be used
 alongside tools you may currently use such as Kanban, Agile, etc.
 
+![7-step PSIP Framework](/practice-guides/assets/images/PSIP_Framework.png)
+
 # Why practice PSIP?
 
 PSIP can help develop best practices and the use of progress tracking cards
@@ -26,7 +28,7 @@ PSIP can be initiated at anytime, and we find PSIP is especially helpful when:
 2. Your code has a new set of users/collaborators who need to understand your
    process for version control
 3. The growth and success of your code base requires your team to interface
-   with other teams more frequently.
+   with other teams more frequently
 
 If any of these conditions describe your situation, we recommend you practice
 PSIP! Even if none of these conditions describe your situation, we
@@ -35,4 +37,4 @@ still recommend you practice PSIP to upgrade team practices anytime!
 
 Ready to get started?
 
-<a href="/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Next Step</a></p>
+<a href="/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Next Step</a>
