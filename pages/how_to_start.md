@@ -18,7 +18,7 @@ The key to PSIP is understanding where you are starting from, setting goals,
 and tracking your progress. The way you *implement PSIP* is by creating and
 using progress tracking cards (PTC).
 
-### Step 1: Summarize Current Project Practices
+## Step 1: Summarize Current Project Practices
 
 ![Step 1 of PSIP](/practice-guides/assets/images/Step1Highlight.png)
 
