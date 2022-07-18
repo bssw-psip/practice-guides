@@ -72,10 +72,11 @@ along the way to completion.
 
 | Name         | Unit Testing|
 | :-------------: | :------------- |
-| Target         | Apply unit testing policy to newly refactored code |
+| **Target**         | Apply unit testing policy to newly refactored code |
 | :-------------: | :------------- |
-| User Story | *As a **software developer**, I want to **create a unit testing policy covering refactored code for my team** so that **I can verify that certain functions of my code are working as expected."*** |
+| **User Story** | As a **software developer**, I want to **create a unit testing policy covering refactored code for my team** so that **I can verify that certain functions of my code are working as expected.** |
 | :-------------: | :------------- |
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No unit testing. |
