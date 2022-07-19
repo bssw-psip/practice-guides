@@ -86,6 +86,11 @@ along the way to completion.
 | 4 | All developer trained to write unit tests. |
 | 5 | New policy established: All refactored code is covered by unit tests. |
 
+### Share your PTC
+
+We encourage you to [share your custom PTC](/ptc-catalog/pages/how-to-contribute.html) with the wider community. Please
+consider contributing back to the PTC Catalog.
+
 ## Step 4: Record Current PTC Values
 
 ![Step 4 of PSIP](/practice-guides/assets/images/Step4Highlight.png)
@@ -109,5 +114,4 @@ established or provide a link to the policy itself.
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_execute_plan.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 5: Create Plan</a>
-
+<a href="/practice-guides/pages/how_to_execute_plan.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 5 & 6: Create and Execute Plan</a>

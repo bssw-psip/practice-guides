@@ -26,7 +26,7 @@ contents).
 - [How to get started](/practice-guides/pages/how_to_start.html)
 - [How to set goals](/practice-guides/pages/how_to_set_goals.html)
 - [How to create PTCs](/practice-guides/pages/how_to_create_ptc.html)
-  (Want to give back? [Share your PTC.](https://bssw-psip.github.io/ptc-catalog/))
+  (Want to give back? [Share your PTC.](/ptc-catalog/pages/how-to-contribute.html))
 - [How to execute your improvement plan](/practice-guides/pages/how_to_execute_plan.html)
 - [How to assess progress](/practice-guides/pages/how_to_assess_progress.html)
 
