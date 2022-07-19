@@ -70,12 +70,9 @@ along the way to completion.
 
 ### Final Card
 
-| Name         | Unit Testing|
-| :-------------: | :------------- |
-| **Target**         | Apply unit testing policy to newly refactored code |
-| :-------------: | :------------- |
-| **User Story** | As a **software developer**, I want to **create a unit testing policy covering refactored code for my team** so that **I can verify that certain functions of my code are working as expected.** |
-| :-------------: | :------------- |
+| **Name**       | Unit Testing |
+| **Target**     | Apply unit testing policy to newly refactored code |
+| **User Story** | As a *software developer*, I want to *create a unit testing policy covering refactored code for my team* so that *I can verify that certain functions of my code are working as expected.* |
 
 | Score         | Description |
 | :-------------: | :------------- |
@@ -83,7 +80,7 @@ along the way to completion.
 | 1 | Unit testing implemented for one example refactored class. |
 | 2 | Two developers using unit testing process. |
 | 3 | Unit testing developer documentation completed. |
-| 4 | All developer trained to write unit tests. |
+| 4 | All developers trained to write unit tests. |
 | 5 | New policy established: All refactored code is covered by unit tests. |
 
 ### Share your PTC
