@@ -97,8 +97,8 @@ remind everyone of your goals, and to determine whether you have met them.
 As seen below, you can record baseline capabilities and track progress
 for each PTC.
 
-- [x] 0 	No unit testing.
-- [ ] 1 	Unit testing implemented for one example refactored class.
+- [x] &nbsp;&nbsp; 0 	No unit testing.
+- [ ] &nbsp;&nbsp; 1 	Unit testing implemented for one example refactored class.
 
 ...and so on.
 
