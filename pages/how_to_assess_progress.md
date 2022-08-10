@@ -1,16 +1,51 @@
-# Practicing PSIP for the first time on your own: how to assess progress
+# Assessing Your Progress
 
-If you haven't already, take a look at [why practice PSIP](/practice-guides/pages/why_practice_PSIP.html), [Step 1](/practice-guides/pages/how_to_start.html), [Step 2](/practice-guides/pages/how_to_set_goals.html), [Steps 3 - 4](/practice-guides/pages/how_to_create_ptc.html), and [Steps 5 - 6](/practice-guides/pages/how_to_execute_plan.html) to get started on your own. The explanation below includes excerpts from the [BSSw PSIP Overview](https://github.com/betterscientificsoftware/PSIP-Tools/blob/master/PSIP-Overview.md):
+<a href="/practice-guides/pages/how_to_execute_plan.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Steps 5 & 6</a>
 
-Assuming you've completed [Step 1](/practice-guides/pages/how_to_start.html), [Step 2](/practice-guides/pages/how_to_set_goals.html), [Steps 3 - 4](/practice-guides/pages/how_to_create_ptc.html), and [Steps 5 - 6](/practice-guides/pages/how_to_execute_plan.html) of PSIP, you are ready to assess your progress, and repeat the process as needed.
+You are ready to assess your progress and repeat the process as needed.
 
-## Step 7: Assess Progress. 
-During execution, teams assess, and determine the rate of progress each week. You can use PTCs to energize your team on the vision. Adjust their strategy for success if needed. Refer frequently to your PTC, and use it as a way to gain consensus or refocus your efforts on your objectives. When progress is delayed too long, start a new PSIP iteration. 
+## Step 7: Assess Progress
 
-## Step 8: Repeat.
+![Step 7 of PSIP](/practice-guides/assets/images/Step7Highlight.png)
 
-The PSIP process is iterative. Continual process improvement is a valuable attribute for any software project. The PSIP process may be used to guide improvement planning within software projects and across aggregate projects. Use PSIP to your advantage: reframe your goals, refocus your team, and share your PSIP with other teams to secure their buy-in.
+During execution, teams assess and determine the rate of progress on a regularly defined basis
+(weekly, monthly, etc.).
+You can use PTCs to energize your team on the vision. Adjust your strategy
+for success if needed. Refer frequently to your PTC and use it as a way to
+gain consensus or refocus your efforts on your objectives.
 
-The PSIP process is cyclical. Iterate as often as you need to. Introduce new PTCs. Modify existing ones. Elevate your processes, [upgrade your team practices](https://github.com/bssw-psip). Are you ready to get started? Check out our PTC examples for ideas on how to set up your planning, and visit the [PTC catalog](https://bssw-psip.github.io/ptc-catalog/) for cards contributed by other teams that you can import into your project. 
+When progress is delayed too long, start a new PSIP iteration. 
 
-Give back and [share your PTCs](https://bssw-psip.github.io/ptc-catalog/).
+## Repeat
+
+The PSIP process is iterative. Continual process improvement is a valuable
+attribute for any software project. The PSIP process may be used to guide
+improvement planning within software projects and across aggregate projects.
+Use PSIP to your advantage: reframe your goals, refocus your team, and share
+your PSIP with other teams to secure their buy-in.
+
+The PSIP process is cyclical. Iterate as often as you need to.
+Introduce new PTCs. Modify existing ones. Elevate your processes.
+Upgrade your team practices.
+
+We've talked about [Why Practice PSIP?](/practice-guides/pages/why_practice_PSIP.html).
+Let's recap all of the steps:
+
+1. [Summarize Current Project Practices](/practice-guides/pages/how_to_start.html)
+2. [Set Goals](/practice-guides/pages/how_to_set_goals.html)
+3. [Construct Progress Tracking Card (PTC)](/practice-guides/pages/how_to_create_ptc.html)
+4. [Record Current PTC Values](/practice-guides/pages/how_to_create_ptc.html)
+5. [Create Plan for Increasing PTC Values](/practice-guides/pages/how_to_execute_plan.html)
+6. [Execute Plan](/practice-guides/pages/how_to_execute_plan.html)
+7. [Assess Progress](/practice-guides/pages/how_to_assess_progress.html)
+
+We encourage you to share your experience using PSIP and any artifacts
+that were created as a part of your process (e.g., PTCs). See our
+[Contributing Guide](/ptc-catalog/pages/how-to-contribute.html) for more information or chat with us on [Gitter](https://gitter.im/bssw-psip/community).
+
+### Resources
+- [Publication](https://www.osti.gov/biblio/1574620):
+  _Lightweight Software Process Improvement using Productivity and Sustainability Improvement Planning (PSIP)_
+- [PTC Catalog](/ptc-catalog/)
+- [BSSw PSIP Page](https://bssw.io/psip)
+- [RateYourProject](https://rateyourproject.org)
