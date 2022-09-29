@@ -8,7 +8,7 @@
 ## Using the Practice Guide
 
 The Productivity and Sustainability Improvement Planning (PSIP) Practice
-Guides are resources intended to help new users get start with PSIP.
+Guides are resources intended to help new users get started with PSIP.
 
 These guides include information on when and why to practice PSIP, how to kick
 off the process, how to set goals, and more.
