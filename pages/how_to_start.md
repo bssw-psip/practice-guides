@@ -1,6 +1,6 @@
 # Getting Started with PSIP
 
-<a href="/practice-guides/pages/why_practice_PSIP.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Why Practice PSIP?</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/why_practice_PSIP.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Why Practice PSIP?</a>
 
 
 As you already know, PSIP framework is an iterative, incremental, repeatable,
@@ -84,4 +84,4 @@ others, the following topics should be addressed:
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_set_goals.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 2: Set Goals</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_set_goals.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 2: Set Goals</a>

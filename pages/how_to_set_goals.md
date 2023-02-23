@@ -1,6 +1,6 @@
 # Setting Goals for Your Project
 
-<a href="/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Step 1</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Step 1</a>
 
 You may have noticed that the process of describing current practices
 has several benefits. For some, the exercise leads to the first concrete
@@ -44,5 +44,5 @@ establish baseline values and tangibly track progress as your practices improve.
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 3 & 4: Construct and Record PTC</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 3 & 4: Construct and Record PTC</a>
 

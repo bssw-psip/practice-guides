@@ -1,6 +1,6 @@
 # Creating and Executing a Practice Improvement Plan
 
-<a href="/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Steps 3 & 4</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_create_ptc.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Steps 3 & 4</a>
 
 
 You are now ready to create and execute your practice improvement plan.
@@ -23,7 +23,7 @@ step in which you want to define what actions must be taken. In the
 Creating your plan requires a bit of thought about your current project
 tracking techniques. You may use Kanban, Agile, or another. We suggest
 you integrate your PTCs with your project process. We have provided
-several examples in the [PTC Catalog](/ptc-catalog/pages/save-ptc-to-repository.html).
+several examples in the [PTC Catalog](https://bssw-psip.github.io/ptc-catalog/pages/save-ptc-to-repository.html).
 
 
 ## Step 6: Execute Plan
@@ -36,10 +36,10 @@ meetings, during a retrospective, or asynchronously. You may decide to execute y
 practice improvement plan a number of ways. You can attempt to incorporate
 complementary software process improvement methods that you already use to execute your plan!
 
-Take a look at [our examples](/ptc-catalog/pages/save-ptc-to-repository.html) for inspiration.
+Take a look at [our examples](https://bssw-psip.github.io/ptc-catalog/pages/save-ptc-to-repository.html) for inspiration.
 Feel free to customize our examples to fit your needs.
 
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_assess_progress.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 7: Assess Progress</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_assess_progress.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Step 7: Assess Progress</a>
