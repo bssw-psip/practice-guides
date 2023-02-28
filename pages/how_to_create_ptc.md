@@ -1,6 +1,6 @@
 # Creating and Assigning Values to Progress Tracking Cards
 
-<a href="/practice-guides/pages/how_to_set_goals.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Step 2</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_set_goals.html"><img src="/practice-guides/assets/images/back_arrow.png" width="18" /> Go Back to Step 2</a>
 
 You are now ready to create your first progress tracking card.
 
@@ -85,7 +85,7 @@ along the way to completion.
 
 ### Share your PTC
 
-We encourage you to [share your custom PTC](/ptc-catalog/pages/how-to-contribute.html) with the wider community. Please
+We encourage you to [share your custom PTC](https://bssw-psip.github.io/ptc-catalog/pages/how-to-contribute.html) with the wider community. Please
 consider contributing back to the PTC Catalog.
 
 ## Step 4: Record Current PTC Values
@@ -111,4 +111,4 @@ established or provide a link to the policy itself.
 
 Ready to move to the next step?
 
-<a href="/practice-guides/pages/how_to_execute_plan.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 5 & 6: Create and Execute Plan</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_execute_plan.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Steps 5 & 6: Create and Execute Plan</a>

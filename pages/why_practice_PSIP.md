@@ -39,4 +39,4 @@ still recommend you practice PSIP to upgrade team practices anytime!
 
 Ready to get started?
 
-<a href="/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Get Started</a>
+<a href="https://bssw-psip.github.io/practice-guides/pages/how_to_start.html"><img src="/practice-guides/assets/images/forward_arrow.png" width="18" /> Get Started</a>
